@@ -1,0 +1,218 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #37a7a7;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-scheme: dark;
+  --ifm-background-primary: #1e1e1e;
+  --ifm-font-color-base: #d4d4d4;
+  --ifm-line-height-base: 1.7rem;
+  /* --ifm-heading-line-height: 9rem; */
+}
+
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+
+.title-runica {
+  font-family: 'Playfair Display', serif;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+html {
+  font-family: 'Open Sans', sans-serif;
+  background-color: var(--ifm-background-primary);
+}
+
+p {
+  /* text-align: justify; */
+  font-size: 1.05rem;
+}
+
+.table-container {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar {
+  background-color: var(--ifm-background-primary);
+  /* border-bottom: 1px solid black; */
+  box-shadow: none;
+}
+
+.footer {
+  background-color: var(--ifm-background-primary);
+}
+
+.container {
+  max-width: 1100px !important;
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding: 0 2.5rem;
+  }
+}
+
+.theme-doc-sidebar-container {
+  border-right: 0px !important;
+}
+
+.navbar__title {
+  font-size: 2rem;
+  font-family: "UnifrakturMaguntia", cursive;
+}
+
+.navbar-sidebar__brand {
+  box-shadow: none;
+}
+
+/* Navbar language selector */
+
+.navbar__items {
+  flex-wrap: nowrap !important;
+}
+
+.navbar__items > .dropdown {
+  display: flex !important;
+  align-items: center;
+}
+
+.navbar__items > .dropdown .navbar__link {
+  display: block !important;
+}
+
+.navbar__items > .dropdown .dropdown__menu {
+  position: absolute !important;
+  display: block !important;
+}
+
+@media (max-width: 768px) {
+  .navbar__items > .dropdown {
+    min-width: 100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar__items .dropdown .navbar__link {
+    font-size: 12px;
+  }
+}
+
+/* Removes language selector from side navbar */
+.navbar-sidebar__back {
+  display: none;
+}
+
+/* ---------- */
+
+.runica-font {
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 60vh;
+  margin: 0;
+}
+
+.home-title {
+  font-size: clamp(6rem, 7vw, 9rem);
+  margin: 0 !important;
+  line-height: 7rem;
+}
+
+/* .home-subtitle {
+  color: var(--ifm-color-primary);
+} */
+
+.home-image {
+  max-width: 14rem;
+  margin: 1rem;
+}
+
+.home p {
+  font-size: 1.4rem;
+  font-weight: 300;
+}
+
+.pagination-nav__link {
+  border: none;
+}
+
+.pagination-nav__sublabel {
+  display: none ;
+}
+
+.pagination-nav__label {
+  font-size: 1.2rem;
+}
+
+div.alert--info [class^="admonitionIcon"] {
+  display: none;
+}
+
+div.alert--info [class^="admonitionHeading"] {
+  font-size: 1.05rem;
+}
+
+div.alert--info div {
+  font-weight: normal;
+  font-size: 1rem;
+  text-transform: none;
+}
+
+.highlighted-keyword {
+  font-weight: 600;
+  /* color: #e0e0e0; */
+  color: #b0c4de;
+}
+
+details {
+  background-color: #474748 !important;
+  /* border-color: #474748 !important; */
+  border-color: #D4D5D8 !important;
+}
+
+details summary {
+  list-style: none;
+  font-weight: bold;
+  margin-left: -1rem;
+  font-size: 1.05rem;
+}
+
+details summary::before {
+  display: none;
+}
+
+details [class^="collapsibleContent"] {
+  border-top: 1px solid #D4D5D8 !important;
+  /* border-top: 0;
+  margin-top: 0;
+  padding-top: 0; */
+}
+
+.breadcrumbs li:first-child {
+  display: none;
+}
+
+.breadcrumbs__link {
+  font-size: 1.05rem;
+}
