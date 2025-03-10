@@ -56,6 +56,7 @@ const sidebars = {
       collapsed: true,
       link: { type: "doc", id: "settlements/index" },
       items: [
+        'settlements/shops',
       ]      
     },
     {
@@ -140,6 +141,7 @@ const sidebars = {
       collapsed: true,
       link: { type: "doc", id: "skills/index" },
       items: [
+        'skills/general',
       ]      
     },
     {
@@ -148,6 +150,8 @@ const sidebars = {
       collapsed: true,
       link: { type: "doc", id: "objects/index" },
       items: [
+        'objects/weapons',
+        'objects/exploration-gear',
       ]      
     },
     {
@@ -156,6 +160,7 @@ const sidebars = {
       collapsed: true,
       link: { type: "doc", id: "creatures/index" },
       items: [
+        'creatures/a',
       ]      
     },
   ],

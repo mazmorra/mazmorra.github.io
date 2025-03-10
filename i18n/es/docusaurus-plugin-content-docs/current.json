@@ -1,13 +1,50 @@
 {
-  "Basic mechanics": { "message": "Mecánicas básicas" },
-  "Dungeon exploration": { "message": "Exploración en mazmorras" },
-  "Settlements": { "message": "Asentamientos" },
-  "Combat": { "message": "Combate" },
-  "Characters": { "message": "Personajes" },
-  "Backgrounds": { "message": "Trasfondos" },
-  "Upgrades": { "message": "Mejoras" },
-  "Classes": { "message": "Clases" },
-  "Skills": { "message": "Habilidades" },
-  "Objects": { "message": "Objetos" },
-  "Creatures": { "message": "Criaturas" }
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Basic mechanics": {
+    "message": "Mecánicas básicas",
+    "description": "The label for category Basic mechanics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dungeon exploration": {
+    "message": "Exploración de mazmorras",
+    "description": "The label for category Dungeon exploration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Settlements": {
+    "message": "Asentamientos",
+    "description": "The label for category Settlements in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Combat": {
+    "message": "Combate",
+    "description": "The label for category Combat in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Characters": {
+    "message": "Personajes",
+    "description": "The label for category Characters in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Backgrounds": {
+    "message": "Trasfondos",
+    "description": "The label for category Backgrounds in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Upgrades": {
+    "message": "Mejoras",
+    "description": "The label for category Upgrades in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Classes": {
+    "message": "Clases",
+    "description": "The label for category Classes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Skills": {
+    "message": "Habilidades",
+    "description": "The label for category Skills in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Objects": {
+    "message": "Objetos",
+    "description": "The label for category Objects in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Creatures": {
+    "message": "Criaturas",
+    "description": "The label for category Creatures in sidebar tutorialSidebar"
+  }
 }
