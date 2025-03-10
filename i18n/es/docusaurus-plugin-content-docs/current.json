@@ -1,0 +1,13 @@
+{
+  "Basic mechanics": { "message": "Mecánicas básicas" },
+  "Dungeon exploration": { "message": "Exploración en mazmorras" },
+  "Settlements": { "message": "Asentamientos" },
+  "Combat": { "message": "Combate" },
+  "Characters": { "message": "Personajes" },
+  "Backgrounds": { "message": "Trasfondos" },
+  "Upgrades": { "message": "Mejoras" },
+  "Classes": { "message": "Clases" },
+  "Skills": { "message": "Habilidades" },
+  "Objects": { "message": "Objetos" },
+  "Creatures": { "message": "Criaturas" }
+}

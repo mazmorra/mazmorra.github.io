@@ -10,6 +10,6 @@ pagination_next: null
 
 <div class="home">
 	<h1 class="home-title runica-font">Rúnica</h1>
-	<img src="/img/entrance.png" alt="Logo" class="home-image" />
-	<p class="home-subtitle">El juego de rol</p>
+	<!-- <img src="/es/img/entrance.png" alt="Entrance" class="home-img" /> -->
+	<p class="home-subtitle">Un juego de rol de mazmorreo</p>
 </div>

@@ -1,5 +1,7 @@
 # Trasfondos
 
+<!-- <img src="/es/img/sage.png" alt="Sage" class="section-img" /> -->
+
 Los trasfondos representan las diferentes maneras en las que los personajes pueden interactuar con el mundo. Como ya se ha comentado, idealmente, los jugadores habrán hecho todo lo posible para eliminar el riesgo asociado a una acción. Pero en algunas ocasiones esto será imposible y será necesario determinar con una tirada d100 si una acción tiene éxito. Para estas ocasiones será necesario valorar cuan competente es un personaje a la hora de realizar un determinada acción.
 
 Los trasfondos son una medida de cuantificar el conocimiento y la experiencia que tiene un personaje en un ámbito determinado. Representan aquello que el personaje ha aprendido a lo largo de su vida, generalmente relacionado con su oficio y ocupación. Sustituyen las habilidades específicas que se utilicen a veces en otros juegos de rol, como atletismo, historia o persuasión. En su lugar, son categorías más amplias que engloban varias habilidades. Todos los personajes tienen una puntuación en cada uno de estos trasfondos expresada en porcentaje (%). Esta se corresponde con la experiencia que tiene un personaje en un determinado trasfondo. Así, podemos hablar de un trasfondo primario (el de mayor puntuación), uno secundario (el de segunda mayor puntuación) y sin experiencia (el resto).
