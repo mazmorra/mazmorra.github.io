@@ -81,6 +81,7 @@ const sidebars = {
       collapsed: true,
       link: { type: "doc", id: "characters/index" },
       items: [
+        'characters/creation',
         {
           type: 'category',
           label: 'Backgrounds',
@@ -141,6 +142,17 @@ const sidebars = {
       collapsed: true,
       link: { type: "doc", id: "skills/index" },
       items: [
+        {
+          type: 'category',
+          label: 'Characteristics',
+          collapsed: true,
+          link: { type: "doc", id: "skills/characteristics/index" },
+          items: [
+            'skills/characteristics/precision',
+            'skills/characteristics/mana-cost',
+            'skills/characteristics/vitality-cost',
+          ]      
+        },
         'skills/general',
       ]      
     },

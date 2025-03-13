@@ -17,11 +17,24 @@ export const keywordsES = [
   "montaraz",
   "sabio",
   "manitas",
+  "clase",
   "trivial",
   "fácil",
   "moderada",
   "difícil",
   "extrema",
+  "precisión",
+  "evasión física",
+  "evasión mágica",
+  "evasión",
+  "armadura ligera",
+  "armadura media",
+  "armadura pesada",
+  "armadura",
+  "número mágico",
+  "zona",
+  "turno"
+
 ];
 
 export const keywordsEN = [

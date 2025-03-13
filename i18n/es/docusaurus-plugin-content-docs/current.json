@@ -39,6 +39,10 @@
     "message": "Habilidades",
     "description": "The label for category Skills in sidebar tutorialSidebar"
   },
+  "sidebar.tutorialSidebar.category.Characteristics": {
+    "message": "Características",
+    "description": "The label for category Characteristics in sidebar tutorialSidebar"
+  },
   "sidebar.tutorialSidebar.category.Objects": {
     "message": "Objetos",
     "description": "The label for category Objects in sidebar tutorialSidebar"
