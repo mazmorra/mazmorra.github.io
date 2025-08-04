@@ -9,7 +9,7 @@ pagination_next: null
 # 
 
 <div class="home">
-	<h1 class="home-title runica-font">Rúnica</h1>
+	<h1 class="home-title mazmorra-font">Mazmorra</h1>
 	<!-- <img src="/img/entrance.png" alt="Entrance" class="home-img" /> -->
 	<p class="home-subtitle">A dungeon delving RPG</p>
 </div>

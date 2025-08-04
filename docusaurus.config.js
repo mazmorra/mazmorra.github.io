@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Rúnica RPG',
-  tagline: 'A website for the Rúnica RPG project',
+  title: 'Mazmorra RPG',
+  tagline: 'A website for the Mazmorra RPG project',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -22,8 +22,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'runicarpg', // Usually your GitHub org/user name.
-  projectName: 'runicarpg.github.io', // Usually your repo name.
+  organizationName: 'mazmorra', // Usually your GitHub org/user name.
+  projectName: 'mazmorra.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Rúnica',
+        title: 'Mazmorra',
         items: [
           {
             type: 'localeDropdown',
@@ -76,7 +76,7 @@ const config = {
         style: 'dark',
         links: [
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Rúnica RPG.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Mazmorra RPG.`,
       },
       prism: {
         theme: prismThemes.github,
